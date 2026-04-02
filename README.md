@@ -1,4 +1,4 @@
-# Hi there, I'm Ryan Hang Zhou 👋
+# Hi there, I'm Hang 👋
 
 ### 📊 My GitHub Statistics
 

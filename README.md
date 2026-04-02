@@ -2,7 +2,7 @@
 
 ### 📊 My GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanHangZhou)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanHangZhou)](https://github.com/RyanHangZhou/github-readme-stats)
 
 ---
 *Postdoctoral Scholar @ University of Alberta | 3D Computer Vision & Generative AI*
